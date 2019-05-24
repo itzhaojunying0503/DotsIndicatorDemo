@@ -39,4 +39,4 @@
 
 ## 控件效果演示
   
-![图片](ezgif.gif)
+![图片](https://github.com/zhaojunying0503/PictureBed/blob/master/ezgif.gif)
